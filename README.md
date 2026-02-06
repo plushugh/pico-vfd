@@ -23,6 +23,9 @@ https://www.aliexpress.com/item/1005002932421503.html?spm=a2g0o.order_list.order
 
 ## Running
 
+> [!IMPORTANT]
+> The display needs to be able to draw at least 160mA from 5V supply at VCC (6ch model)
+
 1. Clone pico-sdk from rpi
 1. Clone submodules in pico-sdk folder for USB support `git submodule update init`
 1. Set PICO_SDK_PATH to cloned pico-sdk folder

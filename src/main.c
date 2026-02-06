@@ -6,7 +6,7 @@
 #include <stdio.h>
 
 // Hardware Connections:
-// VCC - 5V supply, at least 100mA
+// VCC - 5V supply, at least 160mA
 // EN  - Bridged to VCC
 // GND - GND
 // CLK - GPIO 18
